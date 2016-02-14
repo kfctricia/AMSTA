@@ -4,7 +4,7 @@ ZEBRAPAD
 Tricia
 Bas
 Joris
-Lammar
+Lamar
 Mourrad
 Matthijs
 
